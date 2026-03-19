@@ -1,6 +1,6 @@
 # Obsidian AutoGit
 
-[![Python CI](https://github.com/P-Henrick/Obsidian_AutoGit/actions/workflows/python-ci.yml/badge.svg)](https://github.com/P-Henrick/Obsidian_AutoGit/actions/workflows/python-ci.yml)
+[![CI Status](https://img.shields.io/badge/CI-temporariamente%20pausado-yellow)](https://github.com/P-Henrick/Obsidian_AutoGit/actions/workflows/python-ci.yml)
 [![Release](https://img.shields.io/github/v/release/P-Henrick/Obsidian_AutoGit)](https://github.com/P-Henrick/Obsidian_AutoGit/releases)
 
 Aplicativo para automatizar fluxo de Git em múltiplos repositórios, com interface gráfica e CLI.
